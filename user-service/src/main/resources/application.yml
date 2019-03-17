@@ -1,0 +1,4 @@
+micronaut:
+  application:
+    name: user-service
+    port: 8000

@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: user.service
+---
+testFramework: spek
+sourceLanguage: kotlin
